@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mminuciifelicis00mategoog/mminuciifelicis00mategoog_0459.png"; bbox 0 0 2703 4573; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 344 894 1894 1155">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 344 894 1894 1155">
+     <span class='ocr_line' id='line_1_1' title="bbox 344 894 1894 1155; baseline -0.01 -127"><span class='ocrx_word' id='word_1_1' title='bbox 344 901 949 1155; x_wconf 73' lang='lat' dir='ltr'>JULMIAI</span> <span class='ocrx_word' id='word_1_2' title='bbox 971 894 1894 1155; x_wconf 61' lang='lat' dir='ltr'>E*13‘1RVN11CI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 95 1074 2426 1480">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 95 1074 2426 1480">
+     <span class='ocr_line' id='line_1_2' title="bbox 95 1074 2426 1480; baseline -0.009 0"><span class='ocrx_word' id='word_1_3' title='bbox 95 1259 529 1479; x_wconf 88' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 709 1074 2171 1480; x_wconf 63' lang='lat' dir='ltr'>ERNRCORE</span> <span class='ocrx_word' id='word_1_5' title='bbox 2421 1349 2426 1350; x_wconf 26' lang='lat' dir='ltr'>ff</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 139 1568 2033 1980">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 139 1568 2033 1980">
+     <span class='ocr_line' id='line_1_3' title="bbox 139 1568 2033 1843; baseline -0.008 -103"><span class='ocrx_word' id='word_1_6' title='bbox 139 1568 2033 1843; x_wconf 29' lang='lat' dir='ltr'>‘PROFANARUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 489 1825 1766 1980; baseline -0.013 -37"><span class='ocrx_word' id='word_1_7' title='bbox 489 1825 1766 1980; x_wconf 73' lang='lat' dir='ltr'>RELIGIONUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 327 2042 2047 2346">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 327 2042 2047 2346">
+     <span class='ocr_line' id='line_1_5' title="bbox 1031 2042 2047 2115; baseline -0.017 1"><span class='ocrx_word' id='word_1_8' title='bbox 1031 2042 1222 2115; x_wconf 85' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_9' title='bbox 2038 2093 2047 2099; x_wconf 87' lang='lat'><strong>.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 327 2148 1926 2346; baseline -0.013 1"><span class='ocrx_word' id='word_1_10' title='bbox 327 2148 1926 2346; x_wconf 81' lang='lat' dir='ltr'><strong>CONSTANTIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 560 2397 1697 2601">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 560 2397 1697 2601">
+     <span class='ocr_line' id='line_1_7' title="bbox 560 2397 1697 2485; baseline -0.011 -3"><span class='ocrx_word' id='word_1_11' title='bbox 560 2410 721 2485; x_wconf 85' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_12' title='bbox 802 2397 1697 2481; x_wconf 85' lang='lat' dir='ltr'>CONSTANTEM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 937 2524 1305 2601; baseline -0.011 0"><span class='ocrx_word' id='word_1_13' title='bbox 937 2524 1305 2601; x_wconf 76' lang='lat' dir='ltr'>AUGG.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
